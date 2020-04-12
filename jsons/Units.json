@@ -10,7 +10,7 @@
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
-    "uniques": ["Invisible to others"]
+    "uniques": ["Invisible to others","Penalty vs City 33%"]
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	}

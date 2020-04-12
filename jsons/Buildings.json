@@ -3,7 +3,7 @@
 		"name": "Ismaili Castle",
 		"replaces": "Castle",
 		"uniqueTo": "Alamut",
-		"cost": 180,
+		"cost": 220,
 		"xpForNewUnits": 15,
 		"cityHealth": 50,
 		"hurryCostModifier": 25,

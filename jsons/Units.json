@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Hashashin",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Alamut",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 15,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+    "uniques": ["Invisible to others"]
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	}
+]

@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Ismaili Castle",
+		"replaces": "Castle",
+		"uniqueTo": "Alamut",
+		"cost": 180,
+		"xpForNewUnits": 15,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry"
+	}
+]

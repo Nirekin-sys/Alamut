@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Alamut",
+		"leaderName": "Hassan as-Sabbah",
+		"adjective": ["Nizari Ismaili"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "You upset the balance of power, heretic!",
+		"attacked": "Not one fortress of Alamut shall fall to you!",
+		"defeated": "Nothing was ever true...",
+		"introduction": "Greetings, I am al-Hassan of the Alamut.",
+		
+		"neutralHello": "Don't forget to do your prayers.",
+		"hateHello": "Be careful, you do not want to step on daggers...",
+		
+		"tradeRequest": "It is not often that the Alamut reaches out to this extent, consider the offer?",
+				
+		"outerColor": [193,158,0],
+		"innerColor": [0,127,14],
+		"unique": "MONGOL_TERROR",
+		"cities": ["Alamut Qalea","Masyaf","Lambsar","Rudkhan","Maymun-Diz","Samiran","Nevizar Shah","Gerdkuh","Saru","Mo'menabad",
+			"Qa'in","Furg Qalea","Kuh-e-Ghal'eh","Khalanjan","Arrajan","Anjudan","Sa'adat-kuh","Mubaruk-kuh","Firuzkuh Qalea","Shah-Dizh",
+			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+			"Abu Qubays","Qalaat al-Madiq","Aleika Qalea","Al-Qadmus Qalea","Al-Kahf Qalea","Khawabi Qalea","Rusafa Qalea","Qulay'ah Qalea","Manika Qalea","Shaizar Qalea"]
+	}
+]
